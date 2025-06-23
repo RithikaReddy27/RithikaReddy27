@@ -29,7 +29,7 @@ I'm a B.Tech student in Information Technology at **B V Raju Institute of Techno
 ### 📽️ [YouTube Transcript Summarizer & Translator](https://github.com/RithikaReddy27/yt_transcript_summarize_translator)
 An app that extracts YouTube video transcripts, summarizes them using Google Gemini, and translates them with Google Translate. Built with Python + Streamlit.
 
-### 📝 [To-Do Checklist App](https://github.com/yourusername/todo-checklist](https://scintillating-monstera-7ad288.netlify.app/)
+### 📝 [To-Do Checklist App](https://scintillating-monstera-7ad288.netlify.app/)
 A full-stack checklist app built with React.js, MongoDB, and Express. Supports Add, Update, Delete features with intuitive UI.
 
 ### 🚚 [QuickShip - Shipment Service](https://quickship-2.onrender.com/)
@@ -48,7 +48,7 @@ A static shipping website with SQL-backed form handling, email confirmation, and
 ## 🙌 Let's Connect
 
 - 📬 Email: [rithikareddy1718@gmail.com](mailto:rithikareddy1718@gmail.com)
-- 🌐 Portfolio: [Portfolio](https://your-portfolio-link](https://rithikareddy27.github.io/portfolio/)
+- 🌐 Portfolio: [Portfolio](https://rithikareddy27.github.io/portfolio/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rithika-reddy-vemula-389298289) | [GitHub](https://github.com/RithikaReddy27)
 
 Thanks for stopping by! Feel free to explore my repos, open issues, or connect with me. 😊
