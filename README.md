@@ -12,16 +12,13 @@
 `Java` `Python` `JavaScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`React.js` `BeautifulSoup` `Hugging Face Transformers`
+`BeautifulSoup` `Hugging Face Transformers`
 
 **Databases:**  
 `MySQL` `MongoDB`
 
 **Tools & Platforms:**  
-`VS Code` `GitHub` `Postman` `Google Colab` `Render` `Clever Cloud`
-
-**Others:**  
-`Agile (Scrum)` `Git` `API Integration` `Streamlit`
+`VS Code` `GitHub` `Postman` `Google Colab` `Render` 
 
 ---
 
